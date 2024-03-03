@@ -14,7 +14,7 @@ encoding: "utf-8"
 since: 2024
 # 源码仓库，请替换成自己的
 side_bar_repo_limit: 0
-repository: vysitu/vysitu.github.io
+repository: vsitu/vsitu.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
