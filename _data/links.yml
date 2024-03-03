@@ -1,0 +1,42 @@
+- name: Vyzedd
+  url: https://github.com/Vyzedd
+  src: friend
+
+
+
+
+- name: Julienne Stroeve
+  url: https://scholar.google.com/citations?hl=en&user=HJeJP6sAAAAJ
+  src: academia
+
+- name: William C. Porter
+  url: https://scholar.google.com/citations?hl=en&user=drZjQnUAAAAJ
+  src: academia
+
+- name: King-Fai Li
+  url: https://scholar.google.com/citations?hl=en&user=EfaC_gUAAAAJ
+  src: academia
+
+- name: Cedric Fichot
+  url: https://scholar.google.com/citations?user=58nAO9AAAAAJ&hl=en
+  src: academia
+
+- name: Curtis Woodcock
+  url: https://scholar.google.com/citations?hl=en&user=vf8DeC4AAAAJ
+  src: academia
+
+
+
+- name: 秋葉aaaki(StableDiffusion佛祖)
+  url: https://space.bilibili.com/12566101
+  src: code
+
+- name: ChatRWKV
+  url: https://github.com/BlinkDL
+  src: code
+
+- name: 码志(页面主题来源)
+  url: http://mazhuang.org
+  src: code
+
+

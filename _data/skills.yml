@@ -1,0 +1,59 @@
+- name: Data Science
+  keywords:
+      - Python
+      - PyTorch
+      - Kubernetes
+      - Docker 
+      - Tensorflow 1.x
+      - R
+      - Spatiotemporal Analysis
+
+- name: Spatial Analysis
+  keywords:
+      - GDAL
+      - QGIS
+      - ArcGIS
+      - Mapping 
+      - Google Earth Engine
+
+- name: Meterology / Climatology
+  keywords:
+      - Weather Research & Forecast (WRF)
+      - ECMWF - ERA5 / IFS / EAC4 / CAMS
+      - NOAA GFS 
+      - CarbonTracker
+
+- name: Remote Sensing
+  keywords:
+      - Landsat
+      - MODIS
+      - TES
+      - AIRS
+      - GOME/GOME2
+      - SCIAMACHY
+      - TROPOMI
+      - ACE-FTS
+      - CALIPSO
+
+- name: Environmental Science
+  keywords:
+      - AQS Data
+      - Traffic Data
+      - Earth System Model (CESM2)
+
+- name: Other Fields
+  keywords:
+      - Geological Surveying
+      - Scanning Electron Microscopy
+      - Digital Image Processing
+
+
+- name: Hobbies Keywords
+  keywords:
+      - Drone Photography
+      - Raspberry Pi Projects
+      - CorelDraw
+      - Rock/Mineral Identification
+      - 硬笔书法
+
+  
