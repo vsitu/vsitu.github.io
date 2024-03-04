@@ -1,15 +1,15 @@
 - sitename: GitHub
-  name: vysitu
-  url: https://github.com/vysitu
+  name: yuhuasitu
+  url: https://github.com/vsitu
 
 - sitename: GitHub2
-  name: yuhuasitu
-  url: https://github.com/yuhuasitu
+  name: vysitu
+  url: https://github.com/vysitu
 
 - sitename: LinkedIn
   name: Yuhua Situ
   url: https://www.linkedin.com/in/yuhua-situ
 
-- sitename: 博客
-  name: Inn Situ
+- sitename: 生活博客
+  name: Situ Observatory
   url: http://vysitu.github.io
