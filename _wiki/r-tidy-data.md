@@ -8,7 +8,7 @@ keywords: TidyData
 
 <a href="#english">English</a> | <a href="#chinese">中文</a>
 
-## Chinese Content {: #chinese }
+Chinese Content {: #chinese }
 
 # 数据规范
 - 每一列一种变量，每一行一个观测值
@@ -30,7 +30,7 @@ keywords: TidyData
 - 尽可能用 %>% （或者新版本里可以用 |> ）来连接不同步骤
 
 
-## English Content {: #english }
+English Content {: #english }
 
 # Data Specification
 - Each column represents a variable, and each row represents an observation.
