@@ -8,7 +8,8 @@ keywords: TidyData
 
 <a href="#english">English</a> | <a href="#chinese">中文</a>
 
-# Chinese Content {: #chinese }
+## Chinese Content {: #chinese }
+
 # 数据规范
 - 每一列一种变量，每一行一个观测值
     - 变量里面不要包含数据，例如“第一天气温”“第二天气温”“第三天气温”，应该合并成 2 列，叫做“天”和“气温”，“天”是 1，2，3，然后气温是当天气温
@@ -29,7 +30,8 @@ keywords: TidyData
 - 尽可能用 %>% （或者新版本里可以用 |> ）来连接不同步骤
 
 
-# English Content {: #english }
+## English Content {: #english }
+
 # Data Specification
 - Each column represents a variable, and each row represents an observation.
     - Variables should not contain data. For example, instead of "Day 1 Temperature," "Day 2 Temperature," and "Day 3 Temperature," the data should be organized into two columns: "Day" and "Temperature," where "Day" contains values 1, 2, and 3, and "Temperature" contains the corresponding temperature values.
