@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: 码志-Markdown
+title: Markdown MathJax test
 categories: Markdown
 description: Markdown 常用语法示例。
 keywords: Markdown

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 链接/Links
 description: 其他人的各种链接
 keywords: 友情链接
 comments: true

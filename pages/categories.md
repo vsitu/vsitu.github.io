@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: Categories
-description: 哈哈，你找到了我的文章基因库
+title: 分类/Categories
+description: 按 markdown 开头的 categories 信息分类
 keywords: 分类
 comments: false
 menu: 分类

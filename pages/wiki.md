@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wiki
+title: 维基/Wiki
 description: 不断完善的技术维基
 keywords: 维基, Wiki
 comments: false
